@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2 jun 2023, 00:13:41
+    Author     : renan
+*/
+
+body {
+  background-color: gainsboro;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+
+.A{
+    display: flex;
+    justify-content:center;
+    
+}

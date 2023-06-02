@@ -7,3 +7,26 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     Author     : renan
 */
 
+body {
+  background-color: gainsboro;
+}
+p{
+    background: highlight;
+    font: white;
+    text-align: center;
+    front-size: 20px;
+    
+}
+h2{
+   width: 10%;
+   height: 100%;
+   padding-right: 10px;
+   float:left;
+   front-style:italic;
+   background-color: blue;
+    font: white;
+    color:white;
+}
+h5{
+     text-align: center;
+}
